@@ -10,6 +10,6 @@ The Vocational High School Information System is a database application develope
 
 ## How to Use
 
-1. **Clone the Repository**: [`https://github.com/ipehhhhh/Integration-of-Vocational-High-School-Information-Systems-in-North-Kalimantan.git`]
+1. **Clone the Repository**: [https://github.com/ipehhhhh/Integration-of-Vocational-High-School-Information-Systems-in-North-Kalimantan.git]
 2. **Database Setup**: Execute the SQL script to set up the necessary tables and data.
 3. **Run the Application**: Host the project using a web server to access the system.
